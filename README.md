@@ -16,6 +16,6 @@ bash install.sh
 ```
 pkg install termux-create-package git
 git clone https://github.com/suhan-paradkar/ter-m-aven
-cd ter-m-maven
+cd ter-m-aven
 termux-create-package manifest.json
 ```
