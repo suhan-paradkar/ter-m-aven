@@ -5,7 +5,7 @@
   "maintainer": "@suhan-paradkar",
   "description": "Apache Maven is a software project management and comprehension tool. ",
   "homepage": "https://maven.apache.org/index.html",
-  "depends": ["openjdk"],
+  "depends": ["openjdk-17"],
   "recommends": ["ecj"],
   "files" : {
     "bin": "bin",
