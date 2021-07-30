@@ -1,6 +1,6 @@
 {
   "name": "maven",
-  "version": "3.8.1",
+  "version": "3.8.1-1",
   "arch": "all",
   "maintainer": "@suhan-paradkar",
   "description": "Apache Maven is a software project management and comprehension tool. ",
